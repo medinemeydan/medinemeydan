@@ -1,5 +1,5 @@
 ### Hi there 👋, Medine Meydan
-#### Software Testing Engine
+#### Analyst
 Test engineering has become a passion for me with the mission of ensuring reliability and quality of software. I am committed to continuous improvement and crea
 
 
