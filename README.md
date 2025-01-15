@@ -1,9 +1,13 @@
 ### Hi there 👋, Medine Meydan
-#### Analyst , Test Engineer
-Test engineering has become a passion for me with the mission of ensuring reliability and quality of software. I am committed to continuous improvement and crea
+#### Data Sciendist , SOC Analyst
+I am developing myself as a Data Scientist and Security Operations Center (SOC) Analyst. I have knowledge of SQL, Python, Spyder and Java languages. Thanks to the various projects I work on, I am advancing myself in these areas every day.
 
+My Interests
+Data Scientist 
+Security Operations Center (SOC) Solutions
+Machine Learning
 
-Skills: JAVA/POSTMAN/SQL/
+Skills: JAVA/POSTMAN/SQL/Python/Spyder
 
 
 
